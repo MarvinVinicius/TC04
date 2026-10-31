@@ -1,0 +1,9 @@
+{
+  "duplicadas": 609,
+  "idade fora de 18-100": 14,
+  "renda/dependentes nulos": 29214,
+  "renda negativa": 0,
+  "codigos 96/98 (placeholder)": 145,
+  "outlier DebtRatio > p99": 1201,
+  "outlier RevolvingUtilizationOfUnsecuredLines > p99": 1189
+}
